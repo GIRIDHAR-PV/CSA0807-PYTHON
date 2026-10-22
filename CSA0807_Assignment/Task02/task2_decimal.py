@@ -1,7 +1,6 @@
 
 from decimal import Decimal
 
-# 1,000 payments of Rs 33.40 and three adjustments of Rs 0.10
 payments = ["33.40"] * 1000 + ["0.10"] * 3
 
 
@@ -26,4 +25,3 @@ print(
     0.1 + 0.2 == 0.3,
     Decimal("0.1") + Decimal("0.2") == Decimal("0.3")
 )
-
