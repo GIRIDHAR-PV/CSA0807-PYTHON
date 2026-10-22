@@ -1,6 +1,6 @@
 # CSA08 Assignment 1 - Milk Co-operative Payment Calculator
 
-Name: <P V GIRIDHAR>
+Name: <PV GIRIDHAR>
 Register Number: <1972260022>
 Python version: 3.14.2
 Libraries: standard library only (decimal, math, time, timeit, sys).
